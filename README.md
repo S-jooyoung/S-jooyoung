@@ -2,6 +2,8 @@
 <a href="mailto:jooyoung.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jooyoung.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="https://img.shields.io/badge/joo.96-1DA1F2?style=flat square&logo=Instagram&logoColor=white"/></a>
  
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
+ 
  👋&nbsp; Hi there! I'm <b>Web developer</b>  🚀<br/>
   Sometimes I develop cross-platforms , but prefer native. 💖<br/><br/>
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
