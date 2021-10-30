@@ -39,7 +39,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [S-jooyoung](https://github.com/Souravdey777)
+:star: From [S-jooyoung](https://github.com/S-jooyoung)
 
 
 
