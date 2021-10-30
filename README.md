@@ -1,6 +1,6 @@
 
 <a href="mailto:jooyoung.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jooyoung.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/joo.96-1DA1F2?style=flat square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="https://img.shields.io/badge/joo.96-1DA1F2?style=flat square&logo=Instagram&logoColor=white"/></a>
  
  👋&nbsp; Hi there! I'm <b>Web developer</b>  🚀<br/>
   Sometimes I develop cross-platforms , but prefer native. 💖<br/><br/>
