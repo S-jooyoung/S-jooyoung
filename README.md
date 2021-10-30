@@ -29,7 +29,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-jooyoung)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
 
