@@ -6,7 +6,7 @@
  
  👋&nbsp; Hi there! I'm <b>Web developer</b>  🚀<br/>
   Sometimes I develop cross-platforms , but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  I make daily life of concerns about clean code and test. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 
 ---
