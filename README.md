@@ -4,9 +4,9 @@
  
  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
  
- 👋&nbsp; Hi there! I'm <b>Web developer</b>  🚀<br/>
-  Sometimes I develop cross-platforms , but prefer native. 💖<br/><br/>
-  I make daily life of concerns about clean code and test. ⛰ 🏄<br/>
+ 👋&nbsp; Hi there! I'm <b>Front-end developer</b>  🚀<br/>
+  I enjoy growth and always be ready to grow. 💖<br/><br/>
+  I make daily life of concerns about clean code and test. 🤓<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 
 ---
