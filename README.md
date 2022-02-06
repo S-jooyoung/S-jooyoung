@@ -1,12 +1,12 @@
 
 <a href="mailto:jooyoung.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jooyoung.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="https://img.shields.io/badge/joo.96-1DA1F2?style=flat square&logo=Instagram&logoColor=white"/></a>
+ <a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="http://img.shields.io/badge/-joo.96-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"/></a>
  
  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
  
- 👋&nbsp; Hi there! I'm <b>Front-end developer</b>  🚀<br/>
+ 👋&nbsp; Hi there! I'm <b>Front-end developer</b>  🚀<br/><br/>
   I enjoy growth and always be ready to grow. 💖<br/><br/>
-  I make daily life of concerns about clean code and test. 🤓<br/>
+  I make daily life of concerns about clean code and test. 🤓<br/><br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 
 ---
