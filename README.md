@@ -5,7 +5,7 @@
 
 👋&nbsp; Hi there! I'm <b>Front-end developer</b> 🚀<br/><br/>
 I enjoy growth and always be ready to grow. 💖<br/><br/>
-I always put my effort for clean code and test code. 🤓<br/><br/>
+I always put my effort into clean code and test code. 🤓<br/><br/>
 I hope to develop every beautiful things. ✨ <br/><br/>
 
 ---
