@@ -1,16 +1,14 @@
-
 <a href="mailto:jooyoung.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jooyoung.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="http://img.shields.io/badge/-joo.96-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"/></a>
- 
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
- 
- 👋&nbsp; Hi there! I'm <b>Front-end developer</b>  🚀<br/><br/>
-  I enjoy growth and always be ready to grow. 💖<br/><br/>
-  I make daily life of concerns about clean code and test. 🤓<br/><br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+<a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="http://img.shields.io/badge/-joo.96-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"/></a>
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
+
+👋&nbsp; Hi there! I'm <b>Front-end developer</b> 🚀<br/><br/>
+I enjoy growth and always be ready to grow. 💖<br/><br/>
+I always put my effort for clean code and test code. 🤓<br/><br/>
+I hope to develop every beautiful things. ✨ <br/><br/>
 
 ---
-
 
 ### Tech & Tools Preference
 
@@ -24,22 +22,17 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ### Other Languages I know
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-jooyoung)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 ---
-
-
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [S-jooyoung](https://github.com/S-jooyoung)
-
-
-
