@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
 
 👋&nbsp; Hi there! I'm <b>Front-end developer</b> 🚀<br/><br/>
-I enjoy growth and always be ready to grow. 💖<br/><br/>
+I enjoy growth and am always ready to grow up. 💖<br/><br/>
 I always put my effort into clean code and test code. 🤓<br/><br/>
 I hope to develop every beautiful things. ✨ <br/><br/>
 
