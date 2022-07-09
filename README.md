@@ -1,5 +1,6 @@
 <a href="mailto:jooyoung.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jooyoung.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="http://img.shields.io/badge/-joo.96-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"/></a>
+[![Vlog](https://img.shields.io/badge/-blog-blue)](https://s-jooyoung.github.io/)
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
 
