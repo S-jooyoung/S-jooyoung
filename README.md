@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/jo_o.96/" target="_blank"><img src="http://img.shields.io/badge/-joo.96-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"/></a>
 [![Vlog](https://img.shields.io/badge/-blog-blue)](https://joy.pe.kr/)
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JooyoungShin&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JooyoungShin)
 
 👋&nbsp; Hi there! I'm <b>Front-end developer</b> 🚀<br/><br/>
 I enjoy growth and am always ready to grow up. 💖<br/><br/>
