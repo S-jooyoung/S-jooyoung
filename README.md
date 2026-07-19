@@ -27,13 +27,6 @@ I hope to develop every beautiful things. ✨ <br/><br/>
 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
-
----
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-jooyoung&show_icons=true&theme=dracula)
-
-
 ---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
